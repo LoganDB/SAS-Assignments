@@ -1,0 +1,4 @@
+Product	Supplier
+1	ABC Enterprises
+2	PQR & co.
+3	XYZ Associates

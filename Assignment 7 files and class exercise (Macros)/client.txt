@@ -1,0 +1,10 @@
+Client	Product
+"Amigo, Mr. Bill"	1
+"Chodnoff, Mr. Norman"	1
+"Clark, Mr. Rich"	3
+"Crace, Mr. Ron"	2
+"Dellmonache, Ms. Susan"	2
+"Dixon, Mr. Matt"	1
+"Edwards, Mr. Charles"	1
+"Edwards, Ms. Sonia"	3
+"Elsins, Ms. Marisa F."	3
